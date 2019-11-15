@@ -2,12 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cba4419-016c-4e89-96f5-8f5610bfb317" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingAssignment11/ButtonViewer.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingAssignment11/ButtonViewer.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingAssignment11/ClickListener.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingAssignment11/ClickListener.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ButtonViewer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ButtonViewer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ClickListener.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ClickListener.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingAssignment11/OlympicRing.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingAssignment11/OlympicRing.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ProgrammingAssignment11/OlympicRingComponent.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ProgrammingAssignment11/OlympicRingComponent.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OlympicRing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OlympicRing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OlympicRingComponent.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/OlympicRingComponent.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -44,7 +43,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ButtonViewer">
+  <component name="RunManager" selected="Application.OlympicRingViewer">
     <configuration name="ButtonViewer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ButtonViewer" />
       <module name="ProgrammingAssignment11" />
@@ -76,8 +75,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ButtonViewer" />
         <item itemvalue="Application.OlympicRingViewer" />
+        <item itemvalue="Application.ButtonViewer" />
         <item itemvalue="Application.Main" />
       </list>
     </recent_temporary>
@@ -93,7 +92,7 @@
       <option name="presentableId" value="Default" />
       <updated>1573782998706</updated>
       <workItem from="1573783002943" duration="4153000" />
-      <workItem from="1573793995887" duration="496000" />
+      <workItem from="1573793995887" duration="1420000" />
     </task>
     <servers />
   </component>
@@ -110,19 +109,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/OlympicRing.java</url>
-          <line>2</line>
-          <properties class="OlympicRing" method="main">
-            <option name="EMULATED" value="true" />
-          </properties>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
