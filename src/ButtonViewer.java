@@ -1,13 +1,15 @@
 import javax.swing.*;
+import java.awt.*;
 import java.awt.event.ActionListener;
 
 public class ButtonViewer
 {
-        private static final int FRAME_WIDTH = 100;
-        private static final int FRAME_HEIGHT = 60;
+        private static final int FRAME_WIDTH = 200;
+        private static final int FRAME_HEIGHT = 100;
         public static void main(String[] args)
         {
         JFrame frame = new JFrame();
+        frame.setLayout(new FlowLayout());
         JButton button1 = new JButton("Button 1");
         JButton button2 = new JButton("Button 2");
         frame.add(button1);
